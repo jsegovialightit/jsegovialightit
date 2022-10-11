@@ -9,7 +9,7 @@ I'm based on Montevideo, Uruguay
 You can know more about me on
 <a href="https://uy.linkedin.com/in/joaquinsegovia"><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/LinkedinIcon20h.png" alt="Linkedin" style="max-width: 100%;">
 <a href="https://youtube.com/playlist?list=PL2dq_pIVanOA9tDSCewx7Vaz9aholVPW-"><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/YoutubeIcon.png" alt="YoutubeProfile" style="max-width: 100%;"></a>
-<a href="https://github.com/joasegovia9427"><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/GitHubIconPersonal.png" alt="Portfolio" style="max-width: 100%;"></a>
+<a href="https://github.com/joasegovia9427"><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/GitHubIconPersonal.png" alt="PersonalGitHub" style="max-width: 100%; height: 20px;"></a>
   
   
 <a style="pointer-events: none; cursor: nw-resize;" href=#><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/hand30.gif" width="30px" style="pointer-events: none; cursor: nw-resize;"></a> Hola, mi nombre es Joaquin Segovia.
@@ -21,7 +21,7 @@ Vivo en Montevideo Uruguay
 Puedes saber mas sobre mi en
 <a href="https://uy.linkedin.com/in/joaquinsegovia"><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/LinkedinIcon20h.png" alt="Linkedin" style="max-width: 100%;">
 <a href="https://youtube.com/playlist?list=PL2dq_pIVanOA9tDSCewx7Vaz9aholVPW-"><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/YoutubeIcon.png" alt="YoutubeProfile" style="max-width: 100%;"></a>
-<a href="https://github.com/joasegovia9427"><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/GitHubIconPersonal.png" alt="Portfolio" style="max-width: 100%;"></a>
+<a href="https://github.com/joasegovia9427"><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/GitHubIconPersonal.png" alt="PersonalGitHub" style="max-width: 100%;"></a>
 
 
 
