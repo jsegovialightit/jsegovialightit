@@ -2,7 +2,7 @@
 
 <a href="#" style="cursor: pointer"><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/hand30.gif" width="30px"></a> Hi, my name is Joaquin Segovia.
 
-I work as a Software Developer, currently at <a href="https://lightit.io">Light-it ⚡️</a>
+I work as a Software Developer (Front-End) at <a href="https://lightit.io">Light-it ⚡️</a>
 
 I'm based on Montevideo, Uruguay
 
@@ -15,7 +15,7 @@ You can know more about me on
   
 <a style="pointer-events: none; cursor: nw-resize;" href=#><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/hand30.gif" width="30px" style="pointer-events: none; cursor: nw-resize;"></a> Hola, mi nombre es Joaquin Segovia.
 
-Trabajo como Software Developer, actualmente en <a href="https://lightit.io">Light-it ⚡️</a>
+Trabajo como Software Developer (Front-End) en <a href="https://lightit.io">Light-it ⚡️</a>
   
 Vivo en Montevideo Uruguay
 
