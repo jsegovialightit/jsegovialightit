@@ -1,4 +1,4 @@
-<a href=#><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/GitHubLightItBannerDarkMode.png" width="100%" style="pointer-events: none; cursor: nw-resize;"> 
+<a href=#><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/LightItBannerDarkMode.png" width="100%" style="pointer-events: none; cursor: nw-resize;"> 
 
 <a href="#" style="cursor: pointer"><img src="https://raw.githubusercontent.com/jsegovialightit/jsegovialightit/main/Images/hand30.gif" width="30px"></a> Hi, my name is Joaquin Segovia.
 
